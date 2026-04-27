@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data — never commit student face data or attendance records
+data/students/
+data/attendance/
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files
+*.dat
+*.pkl
+*.pickle
+models/
+
+# Environment
+.env
+.env.local
+.env.production
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+desktop.ini
+
+# Temp / backup folders (clean these up before pushing)
+*- Copy/
+*_backup/
+*_old/
+temp/
+tmp/
