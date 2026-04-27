@@ -235,7 +235,7 @@ Use it, modify it, build on it. Attribution appreciated but not required.
 <div align="center">
 <br/>
 
-Made by **[Suresh Jangid](https://github.com/Sureshjangid99)** — Kolhapur, India
+Made by **[Suresh Jangid](https://github.com/Sureshjangid99)** — Jodhpur(Rajasthan), India
 
 *If this saved you time, a* ⭐ *means a lot.*
 
